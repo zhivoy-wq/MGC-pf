@@ -30,7 +30,7 @@ This repository shows its **provably fair random number generator** system. The 
 
 ---
 
-## Why This is Fair
+## Why is this fair? 
 
 - **The bot cannot change outcomes** because the seed was committed via hash.  
 - **The sequence of rolls is deterministic** meaning that anyone can verify the math once the seed is revealed.  
